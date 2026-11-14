@@ -1,6 +1,6 @@
 # 75% College Attendance & Safe Bunk Calculator
 
-A simple program written in C that helps students track their attendance percentage against the mandatory 75% university threshold. Based on total and attended classes, it calculates either how many upcoming classes can be safely skipped or how many consecutive classes must be attended to recover from low attendance.
+A simple program written in C that helps students track their attendance percentage against the mandatory 75% university requirement. Based on total and attended classes, it calculates either how many upcoming classes can be safely skipped or how many consecutive classes must be attended to recover from low attendance.
 
 ## How to Run
 1. Download `attendanceandsafebunkcalc.c`.
